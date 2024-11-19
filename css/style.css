@@ -1,0 +1,172 @@
+header {
+    height: 10vh;
+    background-color: #312020;
+    margin-bottom: 10em;
+}
+
+a {
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+section {
+    margin-bottom: 15em;
+}
+
+.info-main {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.picture-main {
+    width: 50%;
+}
+
+.image-main {
+    width: 20em;
+    border-radius: 200px;
+}
+
+
+.main-header {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.info-header {
+    margin-top: 20px;
+    font-size: 20px;
+    list-style: none;
+    color: white;
+    cursor: pointer;
+}
+
+.txt-section {
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.ul-section {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.img-section {
+    list-style: none;
+}
+
+.image-section {
+    width: 10em;
+}
+
+.projetos-main {
+    width: 100%;
+    margin-bottom: 23em;
+}
+
+.info-projetos {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.img-projeto {
+    width: 200px;
+    margin: 10px;
+}
+
+.imagem-projetos {
+    list-style: none;
+}
+
+.fotos-top {
+    display: flex;
+    justify-content: center;
+}
+
+.fotos-bot {
+    display: flex;
+    justify-content: center;
+}
+
+.txt-projetos {
+    text-align: center;
+    font-size: 60px;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+}
+
+.text-form {
+    text-align: center;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+textarea {
+    width: 20em;
+    border-radius: 5px;
+    border: solid;
+    border-color: rgb(185, 123, 123);
+}
+
+input {
+    width: 20em;
+    border-radius: 5px;
+    border: solid;
+    border-color: rgb(185, 123, 123);
+}
+
+button {
+    width: 20em;
+    border-radius: 5px;
+    border: solid;
+    border-color: rgb(185, 123, 123);
+    margin-top: 10px;
+}
+
+.contato {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: #312020;
+    padding: 10px;
+}
+
+.social {
+    width: 50%;
+}
+
+.ul-contato-social {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.elemento-social {
+    list-style: none;
+}
+
+.image-social {
+    width: 80px;
+}
